@@ -26,9 +26,9 @@
 		current_work = 'Writing code'
 		hobbies = [
 				'Playing Guitar',
-				'Home Improvement Projects',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Fixing stuff',
+				'Activities with family'
+				'Watching Sci-Fi movies'
 			]
 	
 	def getCity():

@@ -2,7 +2,7 @@
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 - 🔭 I’m currently working as a Cloud Solution Architect
-- 🌱 I’m currently learning Azure Container Apps
+- 🌱 I’m currently learning Dapr
 - ⚡ Fun fact: My friend has a pet rabbit...
 
 

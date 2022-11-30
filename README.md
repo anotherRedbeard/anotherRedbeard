@@ -40,7 +40,7 @@
  ```
  
 ## Current Works
- * Started learning Azure Container Apps !!
+ * Azure Container Apps !!
  
 ## Other Stuff
 
